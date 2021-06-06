@@ -25,7 +25,7 @@ module.exports = {
   ],
   author: {
     name: 'Mukesh Dasari',
-    photo: '/photo.png',
+    photo: '/photo.jpg',
     bio: `Programmer, Tech Enthusiast, Explorer. Currently pursuing my Masters in Computer Science from University of North Carolina at Charlotte.`,
     contacts: {
       email: 'mukeshdasari911@gmail.com',
