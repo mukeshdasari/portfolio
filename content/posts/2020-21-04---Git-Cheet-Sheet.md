@@ -10,7 +10,6 @@ tags:
     - "Devops"
     - "Developer"
 description: "This blog will help in learning Git fundamentals and some useful commands."
-socialImage: "/media/gutenberg.jpg"
 ---
 
 ## Git Concepts

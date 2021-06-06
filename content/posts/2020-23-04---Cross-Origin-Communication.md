@@ -10,7 +10,6 @@ tags:
     - "WebDevelopment"
     - "PostMessage"
 description: "In web development many times there comes a need to pass the data from one web application to another application. Being in different domains this becomes very challenging. So JavaScript has inbuilt events which can be used to share the data between cross domain web applications."
-socialImage: "/media/42-line-bible.jpg"
 ---
 
 ## What is Cross Origin Communication?
